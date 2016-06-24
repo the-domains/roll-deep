@@ -1,0 +1,14 @@
+layout_spectrum: 0.11585263651795685
+typography_spectrum: 0.807001018198207
+color:
+  brandStrength: 0.08999742777086794
+  lightness: 0.8560014541726559
+  saturation: 0.48026907886378467
+  rhythmicContrast: 0.23543103877454996
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: Roll deep
